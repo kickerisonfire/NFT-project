@@ -128,11 +128,11 @@ hr{
     background-color:#2E405A;
     border:none; 
     position:absolute;
-    left: -90px;
+    /* left: -90px; */
     top: 525px;
     bottom: 81px;
     border-radius: 0px;
-    margin-left: 610px;
+    /* margin-left: 610px; */
     margin-top: 40px;
 
 
